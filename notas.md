@@ -16,3 +16,9 @@
 Preparar el Proyecto de Despliegue de Aplicaciones Web.
 Preparar apuntes de sintaxis de PHP y JavaScript.
 
+
+
+\##Notas actualizadas
+
+
+
