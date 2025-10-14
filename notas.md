@@ -20,5 +20,7 @@ Preparar apuntes de sintaxis de PHP y JavaScript.
 
 \##Notas actualizadas
 
+\##"Última actualización: Octubre 2025"
+
 
 
