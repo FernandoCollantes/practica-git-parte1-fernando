@@ -1,4 +1,4 @@
-# Mis Asignaturas
+# \# Mis Notas y Tareas - Versión Final
 
 * Despliegue en Aplicaciones Web
 * Desarrollo Web Entorno Sevidor
@@ -21,6 +21,4 @@ Preparar apuntes de sintaxis de PHP y JavaScript.
 \##Notas actualizadas
 
 \##"Última actualización: Octubre 2025"
-
-
 
